@@ -55,22 +55,32 @@ The Cost for the E-library management System application is the intialization of
 
 # Details requirements:
 ## High level requirements 
+| ID | Description | Status |
+|------| ------| ------|
+| HLR1 | User shall be able to add new book (A) | Implemented
+|HLR2  | User shall be able to List of books (L) | Implemented
+|HLR3  | User shall be able to Modifying author (M) |	Implemented
+|HLR4  | User shall be able to search pages (s) |	Implemented
+|HLR5  | User shall be able For searching book(S) |	Implemented
 
 
 
-| ID | Description |
-| ------ | ------ |
-| HLR1 | Add book |
+
+
+| ID | Description | status |
+| ------ | ------ | ------ |
+| HLR1 | Add book | 
 | HLR2 | Add author |
 | HLR3 | Add price |
 
 ## low level requirements
+| ID | Description | Status |
+|-------|------|------|
+| LLR1 | User shall be able to get book | Implemented 
+| LLR1 | User shall be able to fetch best author | Implemented 
+| LLR2 |System must display data without error | Implemented
 
-| ID | Description |
-| ------ | ------ |
-| LLR1 | user inputs |
-| LLR2 | operation |
-| LLR3 | multifile |
+
 
 
 
