@@ -67,11 +67,7 @@ The Cost for the E-library management System application is the intialization of
 
 
 
-| ID | Description | status |
-| ------ | ------ | ------ |
-| HLR1 | Add book | 
-| HLR2 | Add author |
-| HLR3 | Add price |
+
 
 ## low level requirements
 | ID | Description | Status |
