@@ -6,6 +6,3 @@
 | TID 3	| M	| modifying author | SUCCESS |	SUCCESS	|PASS
 | TID 4 |	S	| search pages	| SUCCESS	| SUCCESS	| PASS
 | TID 5	| S	| Searching book | SUCCESS |	SUCCESS | PASS
-
-
-
