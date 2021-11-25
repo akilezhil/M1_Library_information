@@ -5,6 +5,16 @@
 [![Linux C/C++ CI](https://github.com/akilezhil/M1_Library_information/actions/workflows/Linux_c-ccp.yml/badge.svg)](https://github.com/akilezhil/M1_Library_information/actions/workflows/Linux_c-ccp.yml)
 [![Windows C/C++ CI](https://github.com/akilezhil/M1_Library_information/actions/workflows/windows_c-ccp.yml/badge.svg)](https://github.com/akilezhil/M1_Library_information/actions/workflows/windows_c-ccp.yml)
 
+# Folder structure #
+
+
+| Folder | Description | 
+|-------|------|
+| 1_requirement| describe about research | 
+| Design | design of project | 
+| Implement | all coding files | 
+| test plan | test cases |
+| images and vedios | related to project |
 
 
 
