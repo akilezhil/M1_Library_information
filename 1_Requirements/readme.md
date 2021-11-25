@@ -1,4 +1,5 @@
 # Requirements
+
 ## Introduction
 The library magement is a project that can manage the detail of the books you know. The system can help you organize a bool details by entering their information such as book name,author name,book price,etc.. The purpose of the system is to help and maintain the managing of a book info.
 
@@ -6,8 +7,10 @@ The library magement is a project that can manage the detail of the books you kn
 The system contains function that can manage the book information being stored in the library. The user can update the current availablity in the library.
 
 ## Cost and Feature
+
 ## Cost
 The Cost for the E-library management System application is the intialization of software and system requirements.
+
 ## Features
 
 - Add book information
@@ -15,16 +18,7 @@ The Cost for the E-library management System application is the intialization of
 - Display author name
 - Count of the book in library
 
-
-
-
-
-
-
 ## SWOT analysis
-
-
-
 - This project will be very useful for findig& storing the Book details.
 - Easy to know where the book are available.
 - Work becomes very easily & speedly & easy to edit the information.
