@@ -12,16 +12,16 @@ The system contains function that can manage the book information being stored i
 The Cost for the E-library management System application is the intialization of software and system requirements.
 
 ## Features
--    Add book information.
--    Display book information.
--    Display author name.
--    Count of the book in library.
+-  Add book information.
+-  Display book information.
+-  Display author name.
+-  Count of the book in library.
 
 ## SWOT analysis
--      This project will be very useful for findig& storing the Book details.
--      Easy to know where the book are available.
--      Work becomes very easily & speedly & easy to edit the information.
--      he biggest disadvantage of online searching is that you can no longer do without the internet.
+-   This project will be very useful for findig& storing the Book details.
+-   Easy to know where the book are available.
+-   Work becomes very easily & speedly & easy to edit the information.
+-   he biggest disadvantage of online searching is that you can no longer do without the internet.
 ## strengh and weakness:
  ## strength
  • To reduce workload to staff.
@@ -40,10 +40,6 @@ The Cost for the E-library management System application is the intialization of
    Why : The tools organise this information in a way that makes it easy for you to find the entires again the data may also be searchable.
    How: It works in an simple logic what are we used for Library management system we have to use this using an web applications.
 
-
-
-
-
 # Details requirements:
 ## High level requirements 
 | ID | Description | Status |
@@ -53,12 +49,6 @@ The Cost for the E-library management System application is the intialization of
 |HLR3  | User shall be able to Modifying author (M) |	Implemented
 |HLR4  | User shall be able to search pages (s) |	Implemented
 |HLR5  | User shall be able For searching book(S) |	Implemented
-
-
-
-
-
-
 
 ## low level requirements
 | ID | Description | Status |
