@@ -12,10 +12,10 @@ The system contains function that can manage the book information being stored i
 The Cost for the E-library management System application is the intialization of software and system requirements.
 
 ## Features
--  Add book information.
--  Display book information.
--  Display author name.
--  Count of the book in library.
+-   Add book information.
+-   Display book information.
+-   Display author name.
+-   Count of the book in library.
 
 ## SWOT analysis
 -   This project will be very useful for findig& storing the Book details.
