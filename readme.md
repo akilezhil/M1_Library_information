@@ -9,8 +9,6 @@ The library magement is a project that can manage the detail of the books you kn
 [![Windows C/C++ CI](https://github.com/akilezhil/M1_Library_information/actions/workflows/windows_c-ccp.yml/badge.svg)](https://github.com/akilezhil/M1_Library_information/actions/workflows/windows_c-ccp.yml)
 
 # Folder structure #
-
-
 | Folder | Description | 
 |-------|------|
 | 1_requirement| describe about research | 
@@ -21,23 +19,9 @@ The library magement is a project that can manage the detail of the books you kn
 | images and vedios | related to project |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
   
   
- 
-  
-   
+
 
 
 
