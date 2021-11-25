@@ -40,7 +40,6 @@ The Cost for the E-library management System application is the intialization of
    Why : The tools organise this information in a way that makes it easy for you to find the entires again the data may also be searchable.
    How: It works in an simple logic what are we used for Library management system we have to use this using an web applications.
 
-# Details requirements:
 ## High level requirements 
 | ID | Description | Status |
 |------| ------| ------|
@@ -54,8 +53,8 @@ The Cost for the E-library management System application is the intialization of
 | ID | Description | Status |
 |-------|------|------|
 | LLR1 | User shall be able to get book | Implemented 
-| LLR1 | User shall be able to fetch best author | Implemented 
-| LLR2 |System must display data without error | Implemented
+| LLR2 | User shall be able to fetch best author | Implemented 
+| LLR3 |System must display data without error | Implemented
 
 
 
