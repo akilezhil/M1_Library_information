@@ -22,7 +22,7 @@ The Cost for the E-library management System application is the intialization of
 -   Easy to know where the book are available.
 -   Work becomes very easily & speedly easy to edit the information.
 -   He biggest disadvantage of online searching is that you can no longer do without the internet.
--   
+     
 ## strengh and weakness
  ## strength
  • To reduce workload to staff.
