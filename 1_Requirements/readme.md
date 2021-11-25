@@ -55,26 +55,3 @@ The Cost for the E-library management System application is the intialization of
 |-------|------|------|
 | LLR1 | User shall be able to get book | Implemented 
 | LLR2 | User shall be able to fetch best author | Implemented |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
- 
-  
-   
