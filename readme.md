@@ -18,30 +18,3 @@ The library magement is a project that can manage the detail of the books you kn
 | 4_test plan | test cases |
 | 5_reports | related to project |
 | images and vedios | related to project |
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
- 
-  
-   
